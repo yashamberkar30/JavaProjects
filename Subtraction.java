@@ -12,11 +12,11 @@ public class Subtraction {
 		div = a/ b;
 		mod = a % b;
 		 
-		System.out.println("Subtraction of two " + sum);
+		System.out.println("Addition of two " + sum);
 		System.out.println("Subtraction of two " + sub);
-		System.out.println("Subtraction of two " + mul);
-		System.out.println("Subtraction of two " + div);
-		System.out.println("Subtraction of two " + mod);
+		System.out.println("Multiplication of two " + mul);
+		System.out.println("Division of two " + div);
+		System.out.println("Modulas of two " + mod);
 
 	}
 
